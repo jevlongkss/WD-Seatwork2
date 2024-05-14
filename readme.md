@@ -1,4 +1,4 @@
-<a name="readme-top">
+![IMG_4050](https://github.com/jevlongkss/WD-Seatwork2/assets/168976080/fe88dc51-742d-444f-ae12-93f9cafbab56)<a name="readme-top">
 
 <br/>
 
@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="[./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100](https://www.facebook.com/photo/?fbid=7674855595940884&set=a.103973636362489)">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
