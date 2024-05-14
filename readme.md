@@ -1,4 +1,4 @@
-![IMG_4050](https://github.com/jevlongkss/WD-Seatwork2/assets/168976080/fe88dc51-742d-444f-ae12-93f9cafbab56)<a name="readme-top">
+<a name="readme-top">
 
 <br/>
 
@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/jevlongkss/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://www.facebook.com/photo/?fbid=7674855595940884&set=a.103973636362489" alt="profile pic"  width="130" height="100">
+    <img src="[[https://www.facebook.com/photo/?fbid=7674855595940884&set=a.103973636362489](https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/423159834_7447611865331926_6240093153938199642_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG5tT9Eywr1QH9VZ48pBcP8vFkWXp3Es068WRZencSzTkEYcVYbOHi7DMX_wx-um7GG10nJGYDYRoLZ9A-cJTOV&_nc_ohc=luMzaGDXt84Q7kNvgG5Pnaq&_nc_ht=scontent-mnl1-2.xx&oh=00_AYAb6jGf0YX7GczbB7RlT-9Qu9Xf6DzloYwqWLSyyIjJ6g&oe=6649B878)](https://scontent-mnl1-2.xx.fbcdn.net/v/t39.30808-6/423159834_7447611865331926_6240093153938199642_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG5tT9Eywr1QH9VZ48pBcP8vFkWXp3Es068WRZencSzTkEYcVYbOHi7DMX_wx-um7GG10nJGYDYRoLZ9A-cJTOV&_nc_ohc=luMzaGDXt84Q7kNvgG5Pnaq&_nc_ht=scontent-mnl1-2.xx&oh=00_AYAb6jGf0YX7GczbB7RlT-9Qu9Xf6DzloYwqWLSyyIjJ6g&oe=6649B878)" alt="profile pic"  width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Jevlongks</h3>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=jevlongkss/WD-Seatwork2)
 
 ---
 
