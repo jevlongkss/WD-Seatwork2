@@ -61,16 +61,19 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+- Formulating HTML
 - Whats the purpose
-- What are key components
+- for wireframe
+- What are key components\
+- The about me page
 - What technology used and how it is used
+- HTML, CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+- External Css
 
 ### Technology
 <!-- TODO: List of Technology Used -->
