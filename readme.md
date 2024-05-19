@@ -13,7 +13,8 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ 
+Formulating HTML involves crafting the structure and content of web pages using Hypertext Markup Language. This language provides a set of tags and attributes to define elements such as headings, paragraphs, links, images, forms, and more. By combining these elements effectively, developers create visually appealing and functional web pages. Formulating HTML requires an understanding of its syntax and best practices to ensure compatibility across different browsers and devices, resulting in an engaging user experience on the web.. (Optional)
 </div>
 
 <br />
@@ -61,6 +62,7 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+- 
 - Formulating HTML
 - Whats the purpose
 - for wireframe
