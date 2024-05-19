@@ -62,7 +62,6 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-- 
 - Formulating HTML
 - Whats the purpose
 - for wireframe
